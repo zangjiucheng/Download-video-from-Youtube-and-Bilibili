@@ -11,6 +11,7 @@ Pay attention!!!
 3. Please note that the videos downloaded using this program need to pay attention to copyright issues.
 4. This program does not assume any legal responsibility
 5. All interpretation rights belong to this program
+6. You can use even change this program or send to other people, I don't mind about that!
 
 
 How to use this proogram?
