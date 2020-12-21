@@ -7,7 +7,7 @@ If there is anything that needs to be improved, please give me more advice and y
 
 Pay attention!!!
 1. This program will run on your computer, the other people(include me) can't check about what files you download!
-2. Thanks for Yizhi design program logo for me! 
+2. Thanks for Yizhi design program logo for me and help me to test programming before publishing! 
 3. Please note that the videos downloaded using this program need to pay attention to copyright issues.
 4. This program does not assume any legal responsibility
 5. All interpretation rights belong to this program
