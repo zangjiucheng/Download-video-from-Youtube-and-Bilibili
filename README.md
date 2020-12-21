@@ -20,7 +20,7 @@ How to use this proogram?
 3. run for the "Start-up.exe"
 4. Choose download from which website
 5. Input the video "URL" 
-6. Choose witch way to download and press “competition” bottom
+6. Choose which way to download and press “competition” bottom
 7. Wait for a few minutes!
 8. The download_file is in this Folders.
 9. Enjoy yourself!
