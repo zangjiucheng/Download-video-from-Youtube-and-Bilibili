@@ -16,8 +16,8 @@ Pay attention!!!
 
 How to use this proogram?
 1. Download the main.rar
-2. Decompress to the specified directory(Please keep for the other two files and don't move the"运行程序.exe" to other place, or this program will crash!)
-3. run for the "运行程序.exe"
+2. Decompress to the specified directory(Please keep for the other two files and don't move the"Start-up.exe" to other place, or this program will crash!)
+3. run for the "Start-up.exe"
 4. Use letter to choose download from witch Website
 5. Input the video "URL" 
 6. Choose witch way to download(video or only audio)
